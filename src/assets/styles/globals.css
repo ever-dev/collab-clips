@@ -14,7 +14,7 @@
   font-weight: 500;
   font-display: swap;
   src: local("Regular SemiBold"), local("OpenSans-SemiBold"),
-    url("../fonts/regular_webfonts/Regular-SemiBold.woff") format("woff");
+    url("../fonts/regular_webfonts/Regular-Semibold.woff") format("woff");
 }
 @font-face {
   font-family: "Regular";
